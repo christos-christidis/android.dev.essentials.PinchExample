@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pinch Example</string>
+    <string name="zooming_out">Zooming out</string>
+    <string name="zooming_in">Zooming in</string>
+</resources>
